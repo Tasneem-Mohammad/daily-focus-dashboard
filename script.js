@@ -155,4 +155,5 @@ window.onload = function () {
   loadTasks();
   updateTimerDisplay();
   fetchWeather();
+
 };
